@@ -11,4 +11,6 @@ The structure will have external and internal lights that produce effects based 
 
 ![Screenshot from 2023-11-16 15-12-31](https://github.com/darknight-007/a-modest-stability/assets/3958994/bea6d74d-4bcb-4941-a746-18ecfa4f8adc)
 
+![gimbals-night-2](https://github.com/darknight-007/a-modest-stability/assets/3958994/1c8063ce-dd26-49b6-8791-f7ac369c3ef7)
+
 Video: https://youtu.be/izrwVypLYMU
