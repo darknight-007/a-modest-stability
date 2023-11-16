@@ -1,4 +1,4 @@
-A Modest Stability 
+A Modest Stability <br> 
 Three axis gimbals art installation
 
 Lead artist: Jnaneshwar Das 
