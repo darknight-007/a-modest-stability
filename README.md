@@ -15,6 +15,7 @@ The structure will have external and internal lights that produce effects based 
 
 
 https://github.com/darknight-007/a-modest-stability/assets/3958994/943e4ed0-ab65-4a53-a41f-e2c24f4910b6
+
 Installation concept, https://youtu.be/izrwVypLYMU <br>
 
 Inspiration and prior art with gimbals: https://youtu.be/_ubIak3Ak24
