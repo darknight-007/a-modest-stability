@@ -1,7 +1,7 @@
 A Modest Stability <br> 
 Three axis gimbals art installation
 
-Lead artist: Jnaneshwar Das 
+Lead artist: Jnaneshwar Das <br>
 Co-artist: Christopher Filkins 
 
 ‘A Modest Stability’, is a 12' tall three-axis interactive gimbals structure with its dynamics induced by wind, and also through interactions with participants. 
