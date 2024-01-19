@@ -19,3 +19,6 @@ https://github.com/darknight-007/a-modest-stability/assets/3958994/616a1cfd-3f64
 
 
 Inspiration and prior art with gimbals: https://youtu.be/_ubIak3Ak24
+
+Proposed project timeline: <br>
+![a-modest-stability-timeline-v1](https://github.com/darknight-007/a-modest-stability/assets/3958994/ff57fe73-0f20-4fdd-adb0-edfc4cfecccf)
