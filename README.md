@@ -1,8 +1,5 @@
-A Modest Stability <br> 
-Three axis gimbals art installation
-
-Lead artist: Jnaneshwar Das <br>
-Co-artist: Christopher Filkins <br>
+A Modest Stability: Interactive three axis gimbals art installation with aeolian wind-turbines as leaves <br>
+Lead artist: Jnaneshwar Das, Co-artist Christopher Filkins <br>
 Proposed project timeline: https://github.com/darknight-007/a-modest-stability/blob/main/A%20Modest%20Stability%20BRC%20Proposed%20Honoraria%20Project%20Timeline.pdf <br> <br>
 Project Summary: 
 'A Modest Stability' is a 12' tall, three-axis interactive gimbals structure made out of aluminum, influenced by wind, and interactions with humans. It features internal and external lights that respond to the rings'
